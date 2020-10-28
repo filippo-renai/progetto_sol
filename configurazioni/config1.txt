@@ -1,0 +1,12 @@
+K=2
+C=20
+E=5
+T=500
+P=80
+S=30
+F=4
+Z=3 
+S1=2
+S2=8
+casseIniz=1
+notifDir=80
